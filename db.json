@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "18",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/brilliant-diamond-shining-pearl/normal/bulbasaur.png",
+        "back": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdf4aad9-8288-49e9-b966-0ed0471c6f1a/da84swr-c16eaa42-df84-41be-9941-95e725f3a012.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkZjRhYWQ5LTgyODgtNDllOS1iOTY2LTBlZDA0NzFjNmYxYVwvZGE4NHN3ci1jMTZlYWE0Mi1kZjg0LTQxYmUtOTk0MS05NWU3MjVmM2EwMTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7iBRKA5WM-gbQk5-_HPVnR62X0XgdLPR6fei0JCR3a8"
+      },
+      "id": "19c161d4-cf33-4d6a-998f-ffc70953e80d"
     }
   ]
 }
